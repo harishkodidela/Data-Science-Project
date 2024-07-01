@@ -1,0 +1,10 @@
+Descriptions
+Dataset contains 50 years of climate data related to Bengaluru city region from year 1972 to
+2022.
+Columns are:
+1.Date
+2.Rain
+3.min_temperature
+4.max_temperature
+
+
