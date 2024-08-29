@@ -28,5 +28,5 @@ Mean Squared Error: 6.4969
 Root Mean Square Error: 2.5489
 R-squared: 0.9193
 ------------------------------
-Best Model: Random Forest
-Best Model R-squared: 0.9193
+**Best Model: Random Forest
+Best Model R-squared: 0.9193**
